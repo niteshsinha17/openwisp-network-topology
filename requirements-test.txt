@@ -1,8 +1,7 @@
 coveralls
 responses
 freezegun
-# TODO: change this when next point version of openwisp-utils is released
-openwisp-utils[qa] @ https://github.com/openwisp/openwisp-utils/tarball/master
-openwisp-controller~=0.8
+openwisp-controller @ https://github.com/openwisp/openwisp-controller/tarball/master
 # Needed to test integrations
 openwisp-monitoring @ https://github.com/openwisp/openwisp-monitoring/tarball/master
+openwisp-utils[qa]
